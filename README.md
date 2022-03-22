@@ -21,7 +21,7 @@ I am a React Native Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 
   
-  ---
+---
 
 ### :hammer_and_wrench: Languages and Tools :
   <div>
