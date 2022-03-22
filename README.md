@@ -17,7 +17,7 @@
         
 I am a React Native Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kaliningrad.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vasilev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/-vasilev-15598a230/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vasilev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roman-vasilev-15598a230/)
 
 
   
